@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# contact me
+* <font size=10> Email:liuxianzhishou@qq.com
+
+# major in
+* Java
+* C++
+* C
+* VHDL
+
+# learning
+springboot
+  
+# hobby
+  布袋戲
