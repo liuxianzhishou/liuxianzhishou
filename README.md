@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 # major in
 * Java
 * C++
+* JavaScript
 * C
 * VHDL
 
