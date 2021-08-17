@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 * VHDL
 
 # learning
-springboot
+* Springboot
+* Vue
   
 # hobby
   布袋戲布袋戲布袋戲！
