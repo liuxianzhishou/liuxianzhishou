@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 📫 contact me
-* Email:liuxianzhishou@qq.com
+* Email: liuxianzhishou@qq.com
 
 # 😄 programming languange
 * Java
@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - A Java Web application based on SpringCloud Alibaba and Vue.
   
 # hobby
-  布袋戏 - 霹雳布袋戏 & 金光布袋戏
+- 布袋戏 
+  * 霹雳布袋戏 
+  * 金光布袋戏
 ![](https://img2020.cnblogs.com/blog/2448767/202107/2448767-20210708204543095-6185826.jpg)
 
