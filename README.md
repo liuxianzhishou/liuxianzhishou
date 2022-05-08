@@ -14,21 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# contact me
-* <font size=10> Email:liuxianzhishou@qq.com
+# 📫 contact me
+* Email:liuxianzhishou@qq.com
 
-# major in
+# 😄 programming languange
 * Java
+* JavaScript & html & css
 * C++
-* JavaScript
 * C
 * VHDL
 
-# learning
+# 👯 technology stack
 * Springboot
+- MyBatis
+- MySQL
+- Redis
 * Vue
   
+# 🌱 learning
+- SpringCloud Alibaba
+
+# 🔭 doing
+- A Java Web application based on SpringCloud Alibaba and Vue.
+  
 # hobby
-  布袋戲布袋戲布袋戲！
+  布袋戏 - 霹雳布袋戏 & 金光布袋戏
 ![](https://img2020.cnblogs.com/blog/2448767/202107/2448767-20210708204543095-6185826.jpg)
 
