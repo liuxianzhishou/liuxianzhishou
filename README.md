@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my github pages!
 
 <!--
 **liuxianzhishou/liuxianzhishou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,30 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ⚡ my blog pages
+[go to github.io pages click here](https://liuxianzhishou.github.io/)
+
+[go to gitee.io pages click here](https://liuxianzhishou95827.gitee.io/)
+
+# :watermelon: my project
+  - is Applying the domain name, please wait!
+
 # 📫 contact me
 * Email: liuxianzhishou@qq.com
 
-# 😄 programming languange
+# :kiwi_fruit: programming languange
 * Java
 * JavaScript & html & css
-* C++
-* C
-* VHDL
 
-# 👯 technology stack
-* Springboot
+# :grapes: technology stack
+* Springboot & SpringCloud
 - MyBatis
 - MySQL
 - Redis
-* Vue
-  
-# 🌱 learning
-- SpringCloud Alibaba
+- Vue
 
 # 🔭 doing
 - A Java Web application based on SpringCloud Alibaba and Vue.
   
-# hobby
+# :pineapple: hobby
 - 布袋戏 
   * 霹雳布袋戏 
   * 金光布袋戏
