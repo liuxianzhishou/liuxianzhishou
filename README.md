@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - 布袋戏 
   * 霹雳布袋戏 
   * 金光布袋戏
-![](https://img2020.cnblogs.com/blog/2448767/202107/2448767-20210708204543095-6185826.jpg)
+![](https://img2022.cnblogs.com/blog/2448767/202206/2448767-20220607232828146-1569865584.jpg)
 
