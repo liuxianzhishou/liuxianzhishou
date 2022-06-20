@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [go to gitee.io pages click here](https://liuxianzhishou95827.gitee.io/)
 
 # :watermelon: my project
-  - is Applying the domain name, please wait!
+  - get it -> please see my blog pages
 
 # 📫 contact me
 * Email: liuxianzhishou@qq.com
